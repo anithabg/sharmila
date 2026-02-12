@@ -1,7 +1,5 @@
-class pqr
-  {
-    public static void main (String args[])
-    {
-      System.out.println("Hello");
-    }
+class pqr{
+  public static void main (String args[]){
+    System.out.println("Hello");
   }
+}
